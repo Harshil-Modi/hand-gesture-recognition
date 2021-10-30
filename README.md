@@ -6,7 +6,7 @@ This project was created with [MediaPipe](https://mediapipe.dev) and [OpenCV](ht
 
 The project uses [`Hands`](https://google.github.io/mediapipe/solutions/hands) module of MediaPipe
 
-Note: The program only recognizes single hand, because `max_num_hands=1`
+Note: The program only recognizes single hand, because `max_num_hands=1` in [`main.py`](./main.py).
 
 The program can identify following gestures:
 
