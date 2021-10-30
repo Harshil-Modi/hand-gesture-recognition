@@ -1,7 +1,5 @@
 # Hand Gesture Recognition
 
----
-
 ![Featured Image](./featured-image.png)
 
 This project was created with [MediaPipe](https://mediapipe.dev) and [OpenCV](https://docs.opencv.org/4.5.2/). This project was developed for a curricular project.
